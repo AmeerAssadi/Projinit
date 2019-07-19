@@ -99,7 +99,7 @@ def createProject(repositoryName, account) :
         print(colored("Enter correct password", "red"))
         exit(0)
 
-    path = "/Users/ameerma/Documents/devProjects/"
+    path = "/Users/usernmae/path/path/"
 
     # creating repository
     folderName = str(repositoryName)
